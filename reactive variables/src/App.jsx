@@ -8,8 +8,7 @@ function App() {
   return (
     <>
      <div>
-      <h1>reactLive Buttons</h1>
-      <h3>Conditional Buttons</h3>
+      <h3>React made counter</h3>
       <CounterButtons></CounterButtons>
      </div>
     </>
